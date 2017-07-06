@@ -8,7 +8,7 @@
 # Site settings
 title: "testing"
 # email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+description: test site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mbv24.github.io" # the base hostname & protocol for your site
 # twitter_username: hemang_kumar
