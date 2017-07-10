@@ -4,5 +4,7 @@ title: "Interests"
 permalink: /interests/
 ---
 My interests:
-* one
-* two
+* Information and library science
+* German language, literature, and culture
+* Japanese language and literature
+* Opera

@@ -4,8 +4,8 @@ title : About
 permalink: /about/
 ---
 
-<h2>About</h2>
-<p>INLS 161 student</p>
+### About
+I am a visiting student from Cornell University taking INLS 161. I study German Studies at Cornell.
 
 
 
