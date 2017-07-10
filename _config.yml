@@ -8,7 +8,7 @@
 # Site settings
 title: "INLS 161 Site"
 # email: hemangsk@gmail.com
-description: "test site"
+description: "site for mbv24"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mbv24.github.io" # the base hostname & protocol for your site
 # twitter_username: hemang_kumar
