@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: New Category
+title: Posts
 permalink: /science/
-tagline: "This was a new category."
+tagline: "All posts are here."
 category: "science"
 ---
