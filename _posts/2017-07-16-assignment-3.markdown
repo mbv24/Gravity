@@ -1,11 +1,11 @@
---
+---
 layout: post
 title: "Assignment 3"
 
 date: 2017-07-16
 categories: posts
 author: "mbv24"
---
+---
 This is a portfolio of short essays I wrote for a German course. 
 In the essays, I discuss the role of language in different works of German literature. 
 
